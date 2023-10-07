@@ -1,0 +1,9 @@
+.main{
+    width: 205px;
+    height: 300px;
+}
+.h1{
+   
+    display: flex;
+    justify-content: center;
+}
